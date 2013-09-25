@@ -1,0 +1,116 @@
+ [{
+  "title": "Chris Kemp",
+  "image": "chriskemp.jpg",
+  "keywords": [
+              "Founder & CEO",
+               "Nebula Co-Founder",
+               "OpenStack Former CTO",
+              "NASA"
+              ],
+  "instructions": [
+                   "About Chris",
+                   "Chris Kemp is the co-founder and CEO of Nebula. Prior to Nebula, Kemp was the Chief Technology Officer for IT at NASA, where he co-founded OpenStack, and was responsible for pioneering work in cloud computing, open source and open government. Kemp has also served on the White House Cloud Computing Executive Steering Committee. Previously, Kemp served as the CIO of NASA Ames Research Center in Silicon Valley where he forged partnerships with Google and Microsoft and helped create Google Moon, Google Mars, Microsoft World Wide Telescope and was responsible for NASA's Nebula Cloud Computing Project."
+                  ]
+  },
+  {
+  "title": "Alexis Ohanian",
+  "image": "alexisohanian.jpg",
+  "keywords": [
+               "Co-Founder",
+               "Reddit",
+               "Author",
+               "Without Their Permission"
+              ],
+  "instructions": [
+                   "About Alexis",
+                  "Alexis is the co-founder of Reddit, a site that has fundamentally changed the internet. He's also authored the book Without Their Permission due out on Oct 1st. Aside from investing and advising startups, he focuses time on his on social enterprise Breadpig. He also helped to launch Hipmunk. Alexis has spoken at TED and has been named on Forbes 30 Under 30 list two years in a row."
+                  ]
+  },
+  {
+  "title": "Ariel Garten",
+  "image": "ariel-garten.jpg",
+  "keywords": [
+              "Co-Founder & CEO",
+               "InteraXon"
+              ],
+  "instructions": [
+                   "About Ariel",
+                   "Ariel is the co-founder & CEO of InteraXon, a company that created Muse, a brain-sensing headband that lets you control things with your mind. Muse initially raised over $250k in crowdfunding & recently closed $6 million in venture capital funding. If there ever was a gap between science, art, business and technology, she’s closed it. Ariel has researched at the Krembil Neuroscience Institute studying hippocampal neurogenesis, displayed work at the Art Gallery of Ontario, DeLeon White Gallery, and opened Toronto Fashion Week. Referred to as the “Brain Guru” by Now Magazine, CBC Radio and the Toronto Star, Ariel has also run a successful real estate business, spent time as the designer and owner of a Canadian fashion boutique, and is a practicing psychotherapist."
+                 ]
+  },
+  {
+  "title": "John Underkoffler, PhD",
+  "image": "johnunderkoffler.jpg",
+  "keywords": [
+              "Co-Founder & Chief Scientist",
+               "Oblong",
+               "TED Speaker"
+            
+              ],
+  "instructions": [
+                   "About John",
+                  "John is the founder & chief scientist at Oblong Industries, where he's focused on fundamentally changing how humans use computers. If you've watched Steven Spielberg's The Minority Report, you've witnessed the futuristic user interface that John invented. His foundational work at the MIT Media Laboratory included innovations in real-time computer graphics systems, large-scale visualization techniques, and the I/O Bulb and Luminous Room systems. John has spoken at TED Aside from The Minority Report, John has served as a science advisor to films including The Hulk (A.Lee), Aeon Flux, and Iron Man. He's spoken at TED, serves as an adjunct professor in the USC School of Cinematic Arts and is active on several boards. John holds a PhD from the MIT Media Lab."
+                  ]
+  },
+  {
+  "title": "Jeff Hagins",
+  "image": "jeffhagins-sm.jpg",
+  "keywords": [
+              "Co-Founder & CTO",
+               "SmartThings"
+              ],
+  "instructions": [
+                   "About Jeff",
+                  "As co-founder & CTO of SmartThings, Jeff is a “Cloud CTO” that strongly believes in the importance of Cloud-based services as an enabler of time-to market, scalable architectures, improved and more mature service level agreements, and competitive advantage. Accordingly, he believes that the Internet of Things will happen largely in an ever expanding Internet Cloud. Prior to founding SmartThings, Jeff has spent more than 30 years in software engineering, engineering management, and executive technology leadership roles. Most recently, Jeff was CTO and CIO for ReachLocal, he has served as CTO for SMBLive, Dynix, Apptix, and TeleComputing. Jeff began his commercial software career in the ERP industry at J.D. Edwards and spent the first 13 years of his career at Lockheed."
+                  ]
+  },
+  {
+  "title": "Wade Foster",
+  "image": "wadefoster2.jpg",
+  "keywords": [
+               "Co-Founder & CEO",
+               "Zapier"
+               ],
+  "instructions": [
+                   "About Wade",
+                   "Wade Foster is the co-founder of Y-Combinator startup Zapier. Zapier lets SaaS users create integrations that push data between hundreds of best-in-breed web applications without having to write any code or wrangle APIs."
+                   ]
+  },
+  {
+  "title": "Jordan Evans",
+  "image": "jordanevans.jpg",
+  "keywords": [
+               "Engineering Dev & Ops Manager",
+               "NASA's Mars Curiosity Project"
+               ],
+  "instructions": [
+                   "About Jordan",
+                   "As both the Deputy Flight System Manager and Engineering Development and Operations Manager for the Mars Science Laboratory (MSL) “Curiosity” rover project at NASA’s Jet Propulsion Laboratory, Jordan Evans led the MSL team through the challenges of design, assembly, testing, and ultimately through early operations on the surface of Mars. Prior to and since landing, Jordan has shared those challenges with the national and international media and as a speaker at numerous conferences, including TEDx."
+                   ]
+  },
+  {
+  "title": "Andrew Hessel",
+  "image": "andrewhessel.jpg",
+  "keywords": [
+               "Genomic Futurist",
+               "Autodesk",
+               "Faculty, Singularity University"
+               ],
+  "instructions": [
+                   "About Andrew",
+                   "Andrew Hessel is a Distinguished Researcher with Autodesk’s Bio/Nano Programmable Matter group. He is also the co-founder of the Pink Army Cooperative, the world’s first cooperative biotechnology company, which is aiming to make open source viral therapies for cancer. Trained in microbiology and genetics, Andrew has continually worked at the forefront of genomics. He believes that synthetic biology is revolutionary and that it will eventually surpass information technology (IT) as an economic engine and driver of societal change. Andrew is faculty in Bioinformatics and Biotechnology at the Singularity University, based at NASA Research Park in Mountain View, California. He is a fellow at the University of Ottawa, Institute for Science, Society, and Policy, focusing on how next-generation technologies shape society’s future."
+                   ]
+  },
+  {
+  "title": "More Information",
+  "image": "cmwvert.png",
+  "keywords": [
+  
+               ],
+  "instructions": [
+                   "What Is Compute Midwest? Compute Midwest is a 2 day convergence of tech in Kansas City: new people, new ideas and new frontiers. Join us October 25th-27th to imagine & create a better future With 1 conference, an all-star lineup of speakers, a hackathon & 2 parties, Compute Midwest provides a fantastic opportunity to connect you with 500+ forward thinking tech minds. Engage in conversation about the future, exchange/build new ideas & gather takeaways that can move your career/company forward!",
+                   "Compute Midwest is a production of Kansas City IT Professionals (KCITP), a tech community of over 11,000+."
+                   ]
+  }
+  
+ ]
